@@ -49,17 +49,6 @@ col {
     width: 30%;
 }
 
-.appbar {
-    color: #f28b82;
-    font-size: 20px;
-    margin: 25px 35px;
-}
-
-.bottom-wrapper {
-    min-height: 100%;
-    margin: 0 auto -60px;
-}
-
 input[type=text] {
     width: 100%;
     margin: 10px 5px;
